@@ -1,0 +1,14 @@
+p{
+    color: rgb(253, 242, 114);
+    text-align: ijustify;
+}
+
+body{
+    background-color: rgb(33, 67, 141);
+
+}
+
+.Letra{
+    align-items: end;
+    display: flex;
+}
